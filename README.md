@@ -1,2 +1,2 @@
 # jubilant-telegram
-10DaysOfCodeChallenge
+100DaysOfCodeChallenge with EdgeTechDevs
